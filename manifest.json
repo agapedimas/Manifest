@@ -1,0 +1,16 @@
+{
+    "theme_color": "cc0000",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/agapedimas.blogspot.com",
+    "app_name": "Agape Dimas",
+    "short_name": "Agape Dimas",
+    "description": "Agape Dimas App",
+    "icons": [
+        {
+            "src": "http://3.bp.blogspot.com/-1mte7MyvDTg/X5ZJZy_vUUI/AAAAAAAAvYc/3mwOK3lXTsksg-qNgvIeQNzi8ySYEaAmQCK4BGAYYCw/s1600/ad%2Blogo_square%2B%2528png%2529.png",
+            "type": "image/png"
+        }
+    ]
+}
